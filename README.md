@@ -1,18 +1,72 @@
-<h1 align="center">Hi 👋, I'm Bahadır Seyfi</h1>
-<h3 align="center">Loves learning and adopting a phase of new technologies and tools</h3>
-
-- 📫 How to reach me **bahadirsoftware@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bahadirseyfi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bahadirseyfi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bahadır-seyfi-868006198/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bahadır-seyfi-868006198/" height="30" width="40" /></a>
-<a href="https://medium.com/@bahadirseyfi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bahadirsoftware" height="30" width="40" /></a>
+<h1 align="center">Bahadır Seyfi</h1>
+<p align="center">
+  Platform Engineer • Cloud & DevOps • Automation & Reliability
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadirseyfi&show_icons=true&locale=en&layout=compact" alt="bahadirseyfi" /></p>
+<a href="https://www.linkedin.com/in/bahadır-seyfi-868006198/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Glass-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff22">
+</a>
+<a href="https://twitter.com/bahadirseyfi">
+  <img alt="X" src="https://img.shields.io/badge/X-Glass-ffffff?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=ffffff22">
+</a>
+<a href="https://medium.com/@bahadirseyfi">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-Glass-ffffff?style=for-the-badge&logo=medium&logoColor=000000&labelColor=ffffff22">
+</a>
+<a href="mailto:bahadirsoftware@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Glass-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff22">
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadirseyfi&" alt="bahadirseyfi" /></p>
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Glass card -->
+<table>
+<tr>
+<td>
+
+### ✦ About
+- Building reliable platforms and automations  
+- Interested in **Kubernetes, CI/CD, Observability, Cloud**  
+- Always learning, always simplifying
+
+### ✦ Focus
+`Platform Engineering` • `SRE mindset` • `IaC` • `Delivery pipelines`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Minimal tech row (keep it short for a pro look) -->
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Glass-ffffff?style=flat&logo=kubernetes&logoColor=326CE5&labelColor=ffffff22">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-Glass-ffffff?style=flat&logo=docker&logoColor=2496ED&labelColor=ffffff22">
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-Glass-ffffff?style=flat&logo=terraform&logoColor=7B42BC&labelColor=ffffff22">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-Glass-ffffff?style=flat&logo=amazonaws&logoColor=FF9900&labelColor=ffffff22">
+<img alt="Python" src="https://img.shields.io/badge/Python-Glass-ffffff?style=flat&logo=python&logoColor=3776AB&labelColor=ffffff22">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-Glass-ffffff?style=flat&logo=githubactions&logoColor=2088FF&labelColor=ffffff22">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Optional: keep just ONE stat to stay minimal -->
+<img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirseyfi&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=30,0b1220,0f172a,111827&card_width=320" />
+
+</div>
+
+<!-- Subtle separator -->
+<p align="center">
+  <sub>Minimal • Glass vibe • No clutter</sub>
+</p>
