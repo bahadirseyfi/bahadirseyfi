@@ -1,6 +1,6 @@
 <h1 align="center">Bahadır Seyfi</h1>
 <p align="center">
-  Platform Engineer · Cloud & DevOps · Automation & Reliability
+  Platform Engineer · Automation · Observability · iOS Developer
 </p>
 
 <p align="center">
@@ -21,12 +21,13 @@
       <td>
 
 ### About
-- Building reliable platforms & automations  
-- Kubernetes, CI/CD, Observability, Cloud  
-- Always learning, always simplifying
+- Platform Engineering: reliable internal platforms & developer experience  
+- Automation with **Ansible**, infrastructure workflows & CI/CD  
+- Observability with **Splunk** (logs, dashboards, alerting)  
+- Building mobile apps with **Swift / iOS**
 
 ### Focus
-`Platform Engineering` · `SRE mindset` · `IaC` · `Delivery pipelines`
+`Platform Engineering` · `Ansible Automation` · `Splunk / Observability` · `iOS / Swift`
 
       </td>
     </tr>
@@ -36,12 +37,12 @@
 <br/>
 
 <p align="center">
+  <img alt="Platform Engineering" src="https://img.shields.io/badge/Platform%20Engineering-111827?style=flat&logo=linux&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-111827?style=flat&logo=ansible&logoColor=white" />
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-111827?style=flat&logo=splunk&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-111827?style=flat&logo=kubernetes&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-111827?style=flat&logo=terraform&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-111827?style=flat&logo=amazonaws&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat&logo=githubactions&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-111827?style=flat&logo=swift&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-111827?style=flat&logo=apple&logoColor=white" />
 </p>
 
 <br/>
