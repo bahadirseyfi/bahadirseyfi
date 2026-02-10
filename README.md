@@ -29,8 +29,8 @@
 ### Focus
 `Platform Engineering` · `Ansible Automation` · `Splunk / Observability` · `iOS / Swift`
 
-      </td>
-    </tr>
+      
+    
   </table>
 </div>
 
@@ -44,7 +44,7 @@
   <img alt="Swift" src="https://img.shields.io/badge/Swift-111827?style=flat&logo=swift&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/iOS-111827?style=flat&logo=apple&logoColor=white" />
 </p>
-
+</tr>
 <br/>
 
 <p align="center">
